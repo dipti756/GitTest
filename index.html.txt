@@ -1,5 +1,8 @@
 <html>
-<body>
-<p>This is index page</p>
-</body>
-</html>
+            <title>
+                Welcome
+            <title>
+            <body>
+                Welcome to my page
+            </body>
+        </html>
